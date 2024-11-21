@@ -1,0 +1,59 @@
+<html></html>
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Página Web</title>
+</head>
+<body>
+
+    <header>
+        <h1>Bienvenido a mi página web emanuelgei</h1>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="#inicio">Inicio</a></li>
+            <li><a href="#acerca">Acerca de</a></li>
+            <li><a href="#contacto">Contacto</a></li>
+        </ul>
+    </nav>
+
+    <section id="inicio">
+        <h2>Inicio semalokk</h2>
+        <p>.</p>
+    </section>
+
+    <section id="acerca">
+        <h2>Acerca de htmlll</h2>
+        <p>..</p>
+    </section>
+
+    <section id="contacto">
+        <h2>Contacto</h2>
+        <p>Si deseas contactarme, 999999996.</p>
+    </section>
+
+    <footer>
+        <p>&copy; emanuel gei uno123.</p>
+    </footer>
+    <p>&copy; HTML, Lenguaje de marcado de hipertexto o HyperText Markup Language por sus siglas en inglés. Es un lenguaje que permite definir y darle estructura a las páginas web.
+
+        Es una de las partes más básicas de todas las páginas web, por lo que es muy importante aprenderlo si se quiere tener una carrera en el mundo del desarrollo web.
+        
+        En este artículo explicaré en detalle que es HTML, como funciona en una página web y veremos una parte muy interesante de HTML - HTML semántico.
+        
+        ¿Que es HTML?
+        Para entender "HTML" al derecho y al revés, veamos cada letra de esta contracción:
+        
+        Hypertext (hipertexto): texto (usualmente enlaces) que está organizado de manera que conecta elementos relacionados.
+        
+        Markup (marcado): Es una guía de estilo para representar elementos que son mostrados de forma visual en el navegador.
+        
+        Language (lenguaje):Un lenguaje que entiende una computadora y utiliza para interpretar comandos.
+        
+        HTML determina la estructura de las páginas web. Sin embargo, esta estructura no es suficiente para hacer que una página luzca bien y sea interactiva, por lo que necesitas otras tecnologías como CSS y JavaScript, que harán que tu HTML luzca bien y sea interactivo, respectivamente..</p>
+
+</body>
+</html>
